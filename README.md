@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://i.imgur.com/lFw5YQo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png)" align="center" style="width: 20%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/512px-Circle-icons-dev.svg.png" align="center" style="width: 20%" />
 </div>  
   
 
