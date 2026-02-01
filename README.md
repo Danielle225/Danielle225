@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">My name is DANIELLE, I'm 23 and I have a degree in computer science. I have a strong passion for technologies related to application development and artificial intelligence, and I'm constantly motivated by technological challenges and the creation of innovative solutions.(: </div>  
+## <div align="center">My name is DANIELLE,I have a degree in computer science. I have a strong passion for technologies related to application development and artificial intelligence, and I'm constantly motivated by technological challenges and the creation of innovative solutions.(: </div>  
   
 <!-- - 🧿 You can check my personal website [here](https://whosbl33h.netlify.app/) -->
 
